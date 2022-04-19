@@ -1,2 +1,2 @@
-# NextJS Tailwind 3 Starter
+# Gallery App
 
